@@ -1,0 +1,26 @@
+### Obsidian Vault Syncthing Ignore File
+
+### OS Generated
+.DS_Store
+desktop.ini
+
+### Obsidian Configs (Some)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+# Ignore Specific Plugin Data
+.smart-env
+.obsidian/plugins/various-complements/histories.json
+# Ignore Trash
+.trash
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
+
+*.md.log
+texfrag/
+
+.git
